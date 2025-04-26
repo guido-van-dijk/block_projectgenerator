@@ -9,3 +9,4 @@ if ($hassiteconfig) { // Show only to site admins.
         '',
         PARAM_RAW // Use PARAM_RAW for API keys (allows special chars).
     ));
+}
